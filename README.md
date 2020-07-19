@@ -1,5 +1,7 @@
 # Facebook Scraper Selenium
 
+[![Run on Repl.it](https://repl.it/badge/github/brutalsavage/facebook-post-scraper)](https://repl.it/github/brutalsavage/facebook-post-scraper)
+
 Scrape Facebook Public Posts without using Facebook API 
 
 ## What It can Do
